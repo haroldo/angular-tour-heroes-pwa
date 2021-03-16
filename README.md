@@ -31,3 +31,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 [dica-1](https://arjenbrandenburgh.medium.com/angulars-pwa-swpush-and-swupdate-15a7e5c154ac).
 
 [dica-2](https://medium.com/zettle-engineering/beginners-guide-to-web-push-notifications-using-service-workers-cb3474a17679).
+
+[dica-2](https://medium.com/zettle-engineering/beginners-guide-to-web-push-notifications-using-service-workers-cb3474a17679).
